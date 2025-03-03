@@ -1,9 +1,8 @@
-![image](https://github.com/user-attachments/assets/5787f18c-fe4c-44da-ae66-e99df92db199)# Ramazan Takvimi (ICS)
+# Ramazan Takvimi (ICS)
 
 Bu depo, Türkiye'deki şehirler için 2025 iftar ve sahur vakitlerini içeren Ramazan takvimlerini ICS (iCalendar) formatında sunar. Her ramazan günü için iftar ve sahur saatlerini 45 dakikalık bir etkinlik şeklinde takviminize ekler. Bu takvimleri indirerek, favori takvim uygulamanıza (Google Takvim, Apple Takvim, Outlook vb.) kolayca içe aktarabilirsiniz.
 
-![image](https://github.com/user-attachments/assets/685e9611-5801-4ee0-8c31-ab39642a5055)
-
+![image](https://github.com/user-attachments/assets/c07d884a-e332-4d35-81f0-0ee5a72b9079)
 
 ## Nasıl Kullanılır?
 
